@@ -18,7 +18,7 @@ Este repositorio contiene únicamente:
 # 👥 Integrantes del Proyecto
 
 - Cristian Camilo Nino Rincon
-- Nombre Apellido
+- Sandra Milena Pantoja Cárdenas
 - Nombre Apellido
 - Nombre Apellido
 
