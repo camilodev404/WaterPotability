@@ -34,9 +34,9 @@ Este repositorio corresponde al componente:
 
 Arquitectura completa del sistema:
 
-- 🤖 Modelo ()
-- 🌐 API ()
-- 📊 Frontend / Dashboard ()
+- 🤖 Modelo (https://github.com/camilodev404/WaterPotability)
+- 🌐 API (https://github.com/camilodev404/WaterPotability-ms)
+- 📊 Frontend / Dashboard (https://github.com/camilodev404/WaterPotability-dashboard)
 
 ---
 
