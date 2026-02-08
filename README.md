@@ -42,6 +42,7 @@ Arquitectura completa del sistema:
 
 # 🧱 Arquitectura del Proyecto
 
+```
 project-root/
 │
 ├── data/ # Datos crudos y procesados
@@ -56,6 +57,7 @@ project-root/
 ├── configs/ # Configuraciones
 ├── requirements.txt
 └── README.md
+```
 
 
 ---
