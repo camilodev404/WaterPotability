@@ -1,1 +1,10 @@
-.venv
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+build/
+.venv-2/
+.venv-2
